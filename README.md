@@ -7,3 +7,6 @@ This is normal text
 ---
 
 Hello
+
+
+[View my portfolio](https://bakkerbrendan.github.io/portfolio/)
